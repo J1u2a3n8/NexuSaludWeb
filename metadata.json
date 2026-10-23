@@ -1,0 +1,6 @@
+{
+  "name": "Nexa Salud Web Admin",
+  "description": "Panel administrativo y gestión de directorios y patrocinios de Nexa Salud Bolivia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
